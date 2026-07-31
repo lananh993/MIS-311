@@ -112,15 +112,3 @@ Higher salaries do not necessarily lead to better employee performance. Although
 - Pivot Charts
 - Descriptive Statistics
 
-
----
-
-## References
-
-**Tran Lan Anh**
-
-Accounting Student
-
-Eastern International University
-
-Course: MIS 311 – Introduction to Business Analytics
