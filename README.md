@@ -80,13 +80,19 @@ Three visualizations were created using Microsoft Excel.
 
 ### 1. Salary Distribution
 
+![Salary Distribution](Images/Salary_Distribution.png)
+
 Histogram illustrating the distribution of employee salaries.
 
 ### 2. Average Salary by Department
 
+![Average Salary by Department](Images/Average_Salary.png)
+
 Column chart comparing average monthly salary across departments.
 
 ### 3. Average Performance Score by Department
+
+![Average Performance Score by Department](Images/Average_Performance_Score.png)
 
 Column chart comparing average employee performance across departments.
 
